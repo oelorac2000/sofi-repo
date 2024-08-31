@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(139, 135, 133);
+}
+
+h1 {
+    text-align: center;
+}
+form {
+    text-align: center;
+}
+button {
+    background-color: rgb(212, 198, 198);
+    color:rgb(24, 23, 22)
+}
